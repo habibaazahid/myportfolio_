@@ -1,3 +1,7 @@
+/* ══════════════════════════════════════════════
+   JAVASCRIPT — 30 FEATURES
+══════════════════════════════════════════════ */
+
 /* 1 ── PAGE LOAD */
 addEventListener('load', () => document.body.classList.add('go'));
 
