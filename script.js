@@ -315,3 +315,6 @@ document.querySelectorAll('.tab').forEach(tab=>{
 });
 
 dispatchEvent(new Event('scroll'));
+
+</body>
+</html>
